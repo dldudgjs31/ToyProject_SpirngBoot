@@ -83,3 +83,4 @@ WEB-WAS : Tomcat (추후 Jboss/Apache)
 [TEST](https://www.erdcloud.com/d/ayRa9fNqcH4KyH5Km)
 
 ### 화면 UI 설계
+![Untitled](https://user-images.githubusercontent.com/73415181/124377708-426e9980-dce8-11eb-9347-1ce51057d43b.png)
