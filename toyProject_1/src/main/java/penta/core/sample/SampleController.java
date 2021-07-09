@@ -9,6 +9,6 @@ public class SampleController {
 
 	@RequestMapping("/test")
 	public @ResponseBody String test() {
-		return "test";
+		return "test server";
 	}
 }
